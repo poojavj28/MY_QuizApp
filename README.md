@@ -32,7 +32,7 @@ QuizApp is a **ReactJS-based web application** that allows users to take assessm
 ---
 ## 🖼️ Screenshot
 
-![QuizApp Screenshot](![quizapp-home](https://github.com/user-attachments/assets/1806b034-7882-4be3-b718-c7efb6526eca)
+![quizapp-home](https://github.com/user-attachments/assets/1806b034-7882-4be3-b718-c7efb6526eca)
 
 
 ## 🛠️ Technologies Used
